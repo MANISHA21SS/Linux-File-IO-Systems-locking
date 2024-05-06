@@ -1,5 +1,5 @@
-## NAME:Prideesh M
-## REG NO:212223040154
+## NAME:S.S.Manisha selvakumari
+## REG NO:212223220055
 
 # Linux-File-IO-Systems-locking
 Ex07-Linux File-IO Systems-locking
